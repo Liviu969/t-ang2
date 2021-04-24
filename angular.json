@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "e3a1m1bind"
+  "defaultProject": "e3a1m1bind",
+  "cli": {
+    "analytics": false
+  }
 }
